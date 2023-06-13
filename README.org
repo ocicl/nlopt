@@ -1,0 +1,10 @@
+* nlopt
+
+Common Lisp interface to Non-linear Optimization Library (NLOpt)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bpanthi977/nlopt.git   |
+| commit  | 675b486  |
+| systems | nlopt |
+|---------+-------------------------------------------|
+
